@@ -1,0 +1,15 @@
+{
+  "name": "prueba-tecnica",
+  "version": "1.0.0",
+  "description": "Automatización de búsqueda en la web de la Generalitat de Catalunya",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Esteban Galán",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.11.0"
+  }
+}

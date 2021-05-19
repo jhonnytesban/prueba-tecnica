@@ -12,3 +12,6 @@
     * Clone el proyecto desde github
     * Ejecute el comando 'npm install', desde la carpeta raíz del proyecto, para instalar las dependencias necesarias
     * Por último, ejecute el comanto 'npm start' y comenzará a ejecutarse el programa
+
+
+Para cualquier duda póngase en contacto a través del email: *jonathanestebangalan@gmail.com*
